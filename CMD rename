@@ -1,2 +1,9 @@
-commandline
-cd D:\XYZandRGB
+-- In the command prompt (run as administrator)
+
+D:
+cd D:\XYZandRGB\top\proc
+dir /b > filenames.txt
+cd D:\XYZandRGB\top\pers
+dir /b > filenames.txt
+cd D:\XYZandRGB\top\tile
+dir /b > filenames.txt
